@@ -4,8 +4,14 @@
     box-sizing: border-box;
 }
 
+.brand img {
+   background-image: url(https://files.fm/f/dxt46xzwgu);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
 .brand h1 {
-    margin-top: 1rem;   
     text-align: center;
 }
 
