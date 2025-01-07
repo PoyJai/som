@@ -9,6 +9,12 @@
     margin: 0 auto;
 }
 
+.Home {
+    background-color: #ffebcd; /* สีครีม */
+    padding: 20px;
+    border-radius: 10px; /* มุมโค้ง */
+  }
+  
 .container {
     max-width: 1140px;
     margin: 0 auto;

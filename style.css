@@ -4,15 +4,16 @@
     box-sizing: border-box;
 }
 
-.brand img {
-   background-image: url(https://files.fm/f/dxt46xzwgu);
-   background-position: center;
-   background-size: cover;
-   background-repeat: no-repeat;
-}
-
+.banner-container {
+    background-image: url('img/gim.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
 .brand h1 {
     text-align: center;
+    margin-top: rem;
 }
 
 .brand p {
