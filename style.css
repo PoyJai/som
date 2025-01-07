@@ -4,6 +4,15 @@
     box-sizing: border-box;
 }
 
+.brand h1 {
+    margin-top: 1rem;   
+    text-align: center;
+}
+
+.brand p {
+    text-align: center;
+}
+
 .container {
     max-width: 1140px;
     margin: 0 auto;
